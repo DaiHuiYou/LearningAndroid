@@ -9,3 +9,7 @@
 ### UIBestPractice
 
 ![](https://github.com/DaiHuiYou/Material/blob/master/pic/UIBestPractice.jpg?raw=true)
+
+### FragmentBestPractice
+
+![](https://github.com/DaiHuiYou/Material/blob/master/pic/FragmentBestPractice.jpg?raw=true)
